@@ -12,7 +12,7 @@
 "accomodation":"On Request",
 "inclusion":{"inclusion":[], "exclusion":[]},
 "review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
-"images": [{"url":"http://myohoholidays.com/images/india/agra/1.jpg","desc":"Taj Mahal"}]
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Destination(India)/agra.jpg","desc":"Taj Mahal"}]
 
 },
 {
@@ -29,6 +29,6 @@
 "accomodation":"On Request",
 "inclusion":{"inclusion":[], "exclusion":[]},
 "review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
-"images": [{"url":"http://myohoholidays.com/images/india/agra/1.jpg","desc":"Taj Mahal"}]
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Destination(India)/agra.jpg","desc":"Taj Mahal"}]
 
 }]
