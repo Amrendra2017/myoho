@@ -1,12 +1,12 @@
 [{
 "id": 1,
-"name":"Agra Tour 1"
+"name":"Agra Tour 1",
 "star":5
 
 },
 {
-"id": "2"
-"name":"Agra Tour 2"
+"id": "2",
+"name":"Agra Tour 2",
 "star":3
 
 }]
