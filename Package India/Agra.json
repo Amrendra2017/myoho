@@ -1,7 +1,17 @@
 [{
 "id": 1,
 "name":"Agra Tour 1",
-"star":5
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"5 days 4 nights",
+"overview":{"Day 1":"DEPARTURE: Pick-up at your hotel or airport in New Delhi/Gurgaon/Noida/Ghaziabad/Faridabad at 06:00. Then drive to Agra, via the expressway.
+Meet your private guide when you arrive in Agra city and proceed to the Taj Mahal. The Taj Mahal was built in the 17th century by Mughal Emperor Shah Jahan as a memorial for his beloved wife Mumtaz.
+After touring the Taj Mahal you’ll head to the nearby Agra Fort. Agra Fort was built in 1565 A.D. and it is another majestic creation of the Mughal Emperor Akbar.
+Enjoy a lunch break at an air-conditioned multi-cuisine restaurant.
+Later proceed to the Baby Taj stunning views or the Sunset Point with the rear side of the Taj Mahal.",
+"Day 2":"RETURN: The evergreen hill station of Munnar is blessed with nature's delight. Munnar is home to lakes, tea gardens and various other natural attractions for tourist. Local sightseeing in Munnar includes must visit destinations for the tourist. Your local attractions include a visit to:
+Mattupetty, Echo Point, Kundala, Rajamala (Eravikulam National Park), Attukad, waterfalls, Pothamedu View Point."}
 
 },
 {
