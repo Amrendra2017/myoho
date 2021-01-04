@@ -1,0 +1,20 @@
+[{
+"id": 1,
+"name":"Srinagar Tour",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"7 days 6 nights",
+"overview":{"Covered Places":"Srinagar » Pahalgam » Gulmarg",
+"Day 1":"SRINAGAR: Our representative will meet and greet you on arrival in Srinagar. Transfer to the deluxe houseboat/hotel in Srinagar. Evening free to relax and enjoy the scenic views of the high mountains and valleys. Dinner and overnight stay will be at the deluxe houseboat/hotel.",
+"Day 2":"SRINAGAR – PAHALGAM: Morning breakfast at the hotel. Proceed for a road trip to Pahalgam, Located at a distance of 96 kms from Srinagar, Pahalgam as top hill resort of Kashmir with high mountains, dense forests and scenic lakes. There are interesting valleys and pilgrimage places to explore in and around Pahalgam. Return back to the hotel for lunch. Refresh yourself after some rest; explore the surroundings around the hotel. Return back to the hotel for dinner and overnight stay.",
+"Day 3":"IN PAHALGAM: Morning breakfast at the hotel, followed by a visit to Aru valley or Chandanwari (base of Amarnath cave, cost extra). Return back to the hotel in Pahalgam for lunch. Evening free for leisure and personal activities."},
+"sightseeing":{"desc":"Jammu and Kashmir falls into three regions. Jammu is on the plains, populated by Dogras and Punjabis, who are primarily Hindu, and Sikh Punjabi, Dogri, Kashmiri, Urdu and Hindi are all spoken here.
+The Kashmir Valley, the second region, only became easily accessible with the construction of the Jawahar Tunnel in 1958. Before that the Pir Panjal range, daunting even in summer, ensured Kashmir's winter isolation. Even now the road may be blocked for weeks by snow and landslides. Kashmir includes the valley and surrounding mountains that stretch from Banihal northwards into Pakistan.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Package(India)/almora.jpg","desc":"Almora"}]
+
+}]
