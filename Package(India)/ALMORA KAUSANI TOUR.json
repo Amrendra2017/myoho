@@ -1,0 +1,34 @@
+[{
+"id": 1,
+"name":"Kerala Holiday Package",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"6 days 7 nights",
+"overview":{"Day 1":"COCHIN: Arrival at Cochin Airport/ Railway Station. Begin a drive to Athirapally vazhachal waterfalls. This scenic waterfalls is a must visit attraction for tourist looking for a peaceful retreat near the lapse of the nature.",
+"Day 2":"MUNNAR: Morning breakfast at the hotel, followed by a road trip to Munnar. On the way, visit Kodanad elephant care centre, Cheeyappara waterfalls, Valara waterfalls, Attukad waterfalls and spice plantations."},
+"sightseeing":{"desc":"Kerala is a beautiful state that conjures up the image of pristine green foliage, interlinked channels of canals, backwater and rivers, fishing boats returning at sunset, rich temples with its traditional practices and one of the most friendly, jovial and laid back people in India. These are just a few reasons which make the state a popular tourist destination of India and World. This socialist state is a successful model of socialism in India and its proper implementation sees the highest literacy rate in India.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://github.com/Amrendra2017/myoho/blob/main/Destination(India)/kerala-luxury.jpg?raw=true","desc":"Kerala Sea side"}]
+
+},
+{
+"id": 2,
+"name":"Kerala Tour",
+"star":4,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"6 days 7 nights",
+"overview":{"Day 1":"COCHIN: Arrival at Cochin Airport/ Railway Station. Begin a drive to Athirapally vazhachal waterfalls. This scenic waterfalls is a must visit attraction for tourist looking for a peaceful retreat near the lapse of the nature.",
+"Day 2":"MUNNAR: Morning breakfast at the hotel, followed by a road trip to Munnar. On the way, visit Kodanad elephant care centre, Cheeyappara waterfalls, Valara waterfalls, Attukad waterfalls and spice plantations."},
+"sightseeing":{"desc":"Kerala is a beautiful state that conjures up the image of pristine green foliage, interlinked channels of canals, backwater and rivers, fishing boats returning at sunset, rich temples with its traditional practices and one of the most friendly, jovial and laid back people in India. These are just a few reasons which make the state a popular tourist destination of India and World. This socialist state is a successful model of socialism in India and its proper implementation sees the highest literacy rate in India.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://github.com/Amrendra2017/myoho/blob/main/Destination(India)/kerala-luxury.jpg?raw=true","desc":"Kerala Sea Side"}]
+
+}]
