@@ -1,0 +1,19 @@
+[{
+"id": 1,
+"name":"Short Trip to Andaman",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"4 days 3 nights",
+"overview":{"Covered Places":"Port Blair » Havelock",
+"Day 1":"PORT BLAIR: Upon arrival at Port Blair, our tour representative will meet and greet you at the airport. In Afternoon, enjoy early morning Harbour Cruise (Viper Island). Harbour Cruise promises a real luxury cruise (for 2 hours) in a steamer along the sea around Port Blair, which also takes to Viper Island. In Evening, enjoy the wonderful Sound and Light Show at Cellular Jail, where the live testimony of Indian freedon fighters is comes alive. Overnight stay will be at the hotel in Port Blair.",
+"Day 2":"HAVELOCK: Early Morning breakfast at the hotel. Depart to Govt ferry to Havelock Island (54 kms by sea from Port Blair). After breakfast, proceed for a full day sightseeing tour of scenic Beach No. 7 (Radha Nagar), which is regarded as one of the most beautiful beaches in Asia. Enjoy the beautiful sunset from this classical beach. Enjoy lavishly on the white sandy beaches of Havelock Island. Overnight stay will be in Havelock.",
+"Day 3":"PORT BLAIR: Enjoy healthy breakfast at the hotel. Check out from Havelock to Port Blair as per ferry timings. After local sightseeing, reach back to the hotel in the evening. Overnight stay will be in Port Blair."},
+"sightseeing":{"desc":"Andaman Island is the perfect gateway that a traveler would wish for; in fact, it is a one-stop solution for travel enthusiasts. Within a few of decades Andaman and also the Nicobar Islands, have become one of the worlds of the most happening island, gaining immense popularity. Today, the island is a center of vacationers. Be it a quiet vacation on the beach, or an adventures journey that provides you an adrenaline rush, we have it covered for you. Check the best offer for Andaman tour packages, as well as never miss out on this experience we are talking about.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Package(India)/andaman-tour.jpg","desc":"Portblair"}]
+
+}]
