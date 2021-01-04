@@ -1,0 +1,19 @@
+[{
+"id": 1,
+"name":"Best of Himachal Tour",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"11 days 10 nights",
+"overview":{"Covered Places":"Amritsar » Dharamshala » Manali » Shimla » Chandigarh",
+"Day 1":"AMRITSAR: Begin this tour package with transfer to railway station / airport to board train / fight for Amritsar. On arrival in Amritsar, transfer to the hotel. In afternoon visit the Golden Temple, the holiest Sikh pilgrimage place visited by a large number of devotees daily. Explore other famous tourist attractions in Amritsar like Jallianwala Bagh and Wagah border. Overnight stay will be at the hotel in Amritsar.",
+"Day 2":"DHARAMSHALA: Morning breakfast at the hotel. Proceed for a road trip to Dharamshala, the trip takes around 06 hrs to complete. On arrival, check into the hotel. Afternoon is free for leisure activities and shopping. Overnight stay will be at the hotel in Dharamshala.",
+"Day 3":"DHARAMSHALA: Breafast at the hotel, followed by a half day sightseeing tour covering local attractions such as The Tibetan Medical Center, Church of St. John, meditation courses & local monasteries. Rest of the day free for shopping and leisure activities. Overnight stay will be at the hotel in Dharamshala."},
+"sightseeing":{"desc":"Himachal Pradesh is a northern Indian state in the Himalayas. It's home to scenic mountain towns and resorts such as Dalhousie. Host to the Dalai Lama, Himachal Pradesh has a strong Tibetan presence. This is reflected in its Buddhist temples and monasteries, as well as its vibrant Tibetan New Year celebrations. The region is also well known for its trekking, climbing and skiing areas.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Package(India)/best-of-himachal.jpg","desc":"Manali"}]
+
+}]
