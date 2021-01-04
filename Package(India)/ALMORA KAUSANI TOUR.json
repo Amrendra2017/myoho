@@ -1,34 +1,18 @@
 [{
 "id": 1,
-"name":"Kerala Holiday Package",
+"name":"Almora Kausani Tour",
 "star":5,
 "packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
 "tags":"Hotel,Food,Room Service, Commute, Internet",
-"timing":"6 days 7 nights",
-"overview":{"Day 1":"COCHIN: Arrival at Cochin Airport/ Railway Station. Begin a drive to Athirapally vazhachal waterfalls. This scenic waterfalls is a must visit attraction for tourist looking for a peaceful retreat near the lapse of the nature.",
-"Day 2":"MUNNAR: Morning breakfast at the hotel, followed by a road trip to Munnar. On the way, visit Kodanad elephant care centre, Cheeyappara waterfalls, Valara waterfalls, Attukad waterfalls and spice plantations."},
-"sightseeing":{"desc":"Kerala is a beautiful state that conjures up the image of pristine green foliage, interlinked channels of canals, backwater and rivers, fishing boats returning at sunset, rich temples with its traditional practices and one of the most friendly, jovial and laid back people in India. These are just a few reasons which make the state a popular tourist destination of India and World. This socialist state is a successful model of socialism in India and its proper implementation sees the highest literacy rate in India.",
+"timing":"7 days 8 nights",
+"overview":{"Places Covered":"Nainital » Almora » Kausani » Ranikhet » Corbett","Day 1":"NAINITAL: We will arrange for a pick up from Delhi Railway Station or Airport. Proceed for a drive to Nainital. On arrival in Nainital, check in at the hotel. In evening you are free to explore famous Mall Road and shopping market in Nainital. You can also go for boat ride at Naini Lake (at your own cost). Dinner and overnight stay will be at the hotel.",
+"Day 2":"NAINITAL: Breakfast at the hotel, proceed for a lake tour of Bhimtal, Sattal and Naukuchiatal. These three lakes are must visit attractions for every tourist. Return back to the hotel. Dinner and overnight stay will be at the hotel.",
+"Day 3":"ALMORA: Breakfast at the hotel, proceed for a trip to Almora. Later on, visit Deer Park, Kasar Devi, Mohan Joshi Park, Chitai Temple, Simtola, Brightend Corner and Kamlimath Museum. Dinner and overnight stay will be at the hotel."},
+"sightseeing":{"desc":"Uttarakhand, a state in northern India crossed by the Himalayas, is known for its Hindu pilgrimage sites. Rishikesh, a major centre for yoga study, was made famous by the Beatles’ 1968 visit. The city hosts the evening Ganga Aarti, a spiritual gathering on the sacred Ganges River. The state's forested Jim Corbett National Park shelters Bengal tigers and other native wildlife.",
                "list":[]},
 "accomodation":"On Request",
 "inclusion":{"inclusion":[], "exclusion":[]},
 "review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
 "images": [{"url":"https://github.com/Amrendra2017/myoho/blob/main/Destination(India)/kerala-luxury.jpg?raw=true","desc":"Kerala Sea side"}]
-
-},
-{
-"id": 2,
-"name":"Kerala Tour",
-"star":4,
-"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
-"tags":"Hotel,Food,Room Service, Commute, Internet",
-"timing":"6 days 7 nights",
-"overview":{"Day 1":"COCHIN: Arrival at Cochin Airport/ Railway Station. Begin a drive to Athirapally vazhachal waterfalls. This scenic waterfalls is a must visit attraction for tourist looking for a peaceful retreat near the lapse of the nature.",
-"Day 2":"MUNNAR: Morning breakfast at the hotel, followed by a road trip to Munnar. On the way, visit Kodanad elephant care centre, Cheeyappara waterfalls, Valara waterfalls, Attukad waterfalls and spice plantations."},
-"sightseeing":{"desc":"Kerala is a beautiful state that conjures up the image of pristine green foliage, interlinked channels of canals, backwater and rivers, fishing boats returning at sunset, rich temples with its traditional practices and one of the most friendly, jovial and laid back people in India. These are just a few reasons which make the state a popular tourist destination of India and World. This socialist state is a successful model of socialism in India and its proper implementation sees the highest literacy rate in India.",
-               "list":[]},
-"accomodation":"On Request",
-"inclusion":{"inclusion":[], "exclusion":[]},
-"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
-"images": [{"url":"https://github.com/Amrendra2017/myoho/blob/main/Destination(India)/kerala-luxury.jpg?raw=true","desc":"Kerala Sea Side"}]
 
 }]
