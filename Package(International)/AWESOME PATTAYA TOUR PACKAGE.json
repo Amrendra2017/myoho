@@ -1,0 +1,19 @@
+[{
+"id": 1,
+"name":"Awesome Pattaya Tour Package",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"4 days 3 nights",
+"overview":{"Covered Places":"Pattaya",
+"Day 1":"Arrival In Bangkok And Transfer To Pattaya: After arriving at the Bangkok International Airport in the early morning, you will be taken to your hotel in Pattaya on Seat-In-Coach basis. After your check-in at Pattaya hotel, rest up with your family or friends for a while. Kick-start your Pattaya tour package with a visit to Sriracha Tiger Zoo located on the outskirts of the city. The zoo is home to tigers, crocodiles, elephants, and more. To capture your wonderful day, you can also click pictures with tigers at an additional cost. Return to your hotel for the overnight stay.",
+"Day 2":"Coral Island Tour: A finishing your first meal of the day, depart for an adventure trip to Coral Island. On the Coral Island tour is famous for tranquil surroundings. Here, you can indulge in adventure activities such as parasailing, jet skiing, banana boat rides, and undersea walks. After enjoying water sports at Coral Island, enjoy a delicious lunch with your group. Explore the rest of the island by yourself before returning to your hotel in the evening.",
+"Day 3":"Sightseeing In Pattaya: After breakfast at the hotel with your family, get ready for the highlight of our Pattaya tour package Nong Nooch Village. Take a leisurely stroll through orchids at Nong Nooch Tropical Botanical Garden. After this take a village tour with different experiences including Thai boxing matches and an elephant show. This cultural village also features daily cultural shows, landscaped parks, and themed restaurants. Dress up for an entertaining evening with Alcazar Cabaret Show that is famous for energetic acts, extravagant costumes, and more. Return to your hotel in Pattaya for the overnight stay."},
+"sightseeing":{"desc":"Thailand is a Southeast Asian country. It's known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples displaying figures of Buddha. In Bangkok, the capital, an ultramodern cityscape rises next to quiet canalside communities and the iconic temples of Wat Arun, Wat Pho and the Emerald Buddha Temple (Wat Phra Kaew). Nearby beach resorts include bustling Pattaya and fashionable Hua Hin.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Package(India)/almora.jpg","desc":"Almora"}]
+
+}]
