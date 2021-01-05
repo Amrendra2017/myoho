@@ -1,0 +1,19 @@
+[{
+"id": 1,
+"name":"Holiday In Kathmandu",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"4 days 3 nights",
+"overview":{"Covered Places":"Kathmandu",
+"Day 1":"ARRIVAL IN KATHMANDU: Our tour executive will meet and greet you at the Kathmandu International Airport Arrival Gate. Transfer to the hotel. Check into the hotel. Relax and enjoy at your leisure. Overnight stay will be at the hotel in Kathmandu.",
+"Day 2":"KATHMANDU SIGHTSEEING: After breakfast at the hotel restaurant, meet our tour guide for a local sightseeing tour of the city. You will be visiting Pashupatinath Temple & Boudhanath Stupa in Kathmandu.Pashupatinath Temple - Dedicated to Hindu God Shiva, this temple is regarded as one of the most sacred Hindu pilgrimage temples in Nepal. A must visit attractions in the heart of Kathmandu city. Overnight stay will be In Kathmandu.",
+"Day 3":"KATHMANDU SIGHTSEEING: Morning breakfast at the hotel followed by a sightseeing tour of Kathmandu capital. Visit the famous Swayambhunath Stupa Durbar Square (Hanuman Dhoka Kumari Temple). You will be exploring more fascinating places in Kathmandu. Evening free for leisure activities and shopping. Overnight stay will be in Kathmandu."},
+"sightseeing":{"desc":"Nepal, officially Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is located mainly in the Himalayas, but also includes parts of the Indo-Gangetic Plain. With an estimated population of 26.4 million, it is 48th largest country by population and 93rd largest country by area.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Package(India)/Nepal.jpg","desc":"Kathmandu"}]
+
+}]
