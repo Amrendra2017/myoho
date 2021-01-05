@@ -1,0 +1,19 @@
+[{
+"id": 1,
+"name":"Magnificent Thailand Tour Package",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"4 days 3 nights",
+"overview":{"Covered Places":"PHUKET, KRABI",
+"Day 1":"Phuket: Arrival And Leisure Day: As soon as you land at Phuket International airport, an agent's representative will greet and escort you to the hotel. Complete check-in formalities at the hotel and get over the jet lag. Rest of the day is at leisure, which you can enjoy on your own by visiting places like Khao Sok National Park and Phuket Aquarium. Your kids will be more than happy to have visited such amazing places. After a lovely day, come back to the hotel for a restful night. Optional: Sightseeing (charges extra)",
+"Day 2":"Phuket: A Beautiful Day At Beaches: Kickstart your day with a lovable breakfast and get ready to have a water carnival at the beautiful beaches on Phi Phi Island in Phuket. The day is not just about visiting beaches but much more than that. Today, you will be taking pleasure in sailing through myriad islands, placed carefully by nature in the sea. Sailing and enjoying, you will reach Maya Bay, the stunning bay that is home to several beaches. This bay was also the set of the 1999 Hollywood flick 'The Beach'. Drink in the mesmeric beauty spread all around and enjoy snorkeling in the crystal clear cobalt waters. You can also delight in playful times with your kids at pristine beaches here. After enjoying your day, return to the hotel for a restful night.",
+"Day 3":"Krabi: A Place With Outlandish Natural Beauty: After a wholesome breakfast at the hotel, check out as now you will be transferred to Krabi - the ethereal island. Located towards the south of Thailand near the Andaman Sea, Krabi is a very popular beach destination for travelers all over the world. As the road journey from Phuket brings you to the hotel in Krabi, complete the check-in formalities and then settle in. Relax and enjoy as rest of the third day of your Thailand family package is at leisure. You can also choose to go out and explore the nearby attractions on your own. As the day ends, you will be transferred to your hotel for a relaxing sleep."},
+"sightseeing":{"desc":"Thailand is a Southeast Asian country. It's known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples displaying figures of Buddha. In Bangkok, the capital, an ultramodern cityscape rises next to quiet canalside communities and the iconic temples of Wat Arun, Wat Pho and the Emerald Buddha Temple (Wat Phra Kaew). Nearby beach resorts include bustling Pattaya and fashionable Hua Hin.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Package(India)/almora.jpg","desc":"Almora"}]
+
+}
