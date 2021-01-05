@@ -1,0 +1,19 @@
+[{
+"id": 1,
+"name":"Dubai Holiday Package",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"5 days 4 nights",
+"overview":{"Covered Places":"Dubai With Stay At Atlantis The Palm",
+"Day 1":"DUBAI: On Arrival at Dubai airport, proceed towards immigration center for immigration formalities including an Eye scan. In Afternoon, Relax at the hotel for a little while. Proceed for Dhow Cruise - our tour representative will arrange for a pick up from hotel's lobby at around 1900 hrs Dhow Cruise. Explore various facets of New & Old Dubai while sailing in an exclusively designed Dhow made of beautiful teak wood. Experience the best of true Arabian hospitality, good music and a delightful buffet cuisine. Dinner will be served with complimentary soft drinks and mineral water. In Evening, Return back to the hotel for an overnight stay.",
+"Day 2":"DUBAI: Morning breakfast at the hotel. Our tour representative will arrange for a pick up from hotel's lobby between 09:30 - 10:00 hrs. for Dubai City Tour. You will first visit Jumeirah Mosque followed by short trip to Jumeriah Beach. Jumeriah Beach is a famous place to chill and unwind in Dubai. Also have a glimpse of Deira Towers, a perfect example of modern architecture in Dubai. Also visit Dubai Museum, Textile Market and finally stop at Dubai Gold Souk, a prominent shopping hub for a variety of goods. Return back to the hotel.",
+"Day 3":"DUBAI: Morning breakfast at the hotel. Rest of the day free to explore Dubai on your own. You can also opt for a Full day trip to Abu Dhabi (at an extra cost). Overnight stay will be at the hotel."},
+"sightseeing":{"desc":"You can take an extended tour to Dubai to explore all the undiluted wonders of the land or you can enjoy a short vacation for a couple of days to soak in the splendor and excitement with your family. Dubai has many wonderful places to explore, which are unique and enjoy an unprecedented place among most of the other tourist destinations. Enjoy a fun-filled visit to Dubai, explore the following attractions: Amazing theme and amusements parks of Dubai; Dubai Ski world; Visit the only 7-star property of the world, Al Burj Khalifa; the amazing Palm Islands; enjoy an adventurous streak by going on desert safaris, sand surfing and enjoying some exotic belly dancing in desert camps on the famous sand dunes of Dubai; the historic site of Al Fahidi district; the famous Dubai Mall- considered to be the biggest in the world and many other malls of Dubai; Jumeraih beach resort; the tallest structure in the world- Burj Khalifa; Universal Studios Dubai; Dubai Zoo; Dubai Museum; Dubai Creek; Gold Souk; Wollongong Beach; Jebel Ali Beach; Dubai Dolphinarium; Hatta Rock Pools; take a cruise in the sea or a short excursion to Abu Dhabi, the capital of United Arab Emirates. Dubai holiday packages take care of all your traveling needs right from booking tickets, making reservations in good hotels, taking care of your local transportation including a tourist guide.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Package(India)/almora.jpg","desc":"Almora"}]
+
+}]
