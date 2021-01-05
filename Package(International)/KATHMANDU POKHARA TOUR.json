@@ -1,0 +1,19 @@
+[{
+"id": 1,
+"name":"Kathmandu Pokhara Tour",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"5 days 4 nights",
+"overview":{"Covered Places":"Kathmandu » Pokhara",
+"Day 1":"ARRIVAL AT KATHMANDU: Arrival at Kathmandu Airport, Our representative will meet and greet you at the airport. You will be transfer to the hotel. Check in at the hotel and rest of the day is free to relax. Overnight stay will be at the hotel in Kathmandu.",
+"Day 2":"KATHMANDU SIGHTSEEING: Morning breakfast at the hotel. Begin a sightseeing tour of the city with the following attractions like Pashupatinath, Boudhanath, Swayambhunath and Durbar Square. Evening free for leisure activities. Overnight stay will be at the hotel in Kathmandu.",
+"Day 3":"KATHMANDU - POKHARA (200 KM - 6 HOURS): After healthy breakfast at the hotel, proceed for Pokhara. Enjoy a five hours beautiful drive to Pokhara which covers the scenic view of the high Mountains and valleys. Arrive at Pokhara and check into the hotel. Evening free for leisure activities including shopping. Visit Phewa Lake or do shopping on your own at Lakeside."},
+"sightseeing":{"desc":"Nepal, officially Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is located mainly in the Himalayas, but also includes parts of the Indo-Gangetic Plain. With an estimated population of 26.4 million, it is 48th largest country by population and 93rd largest country by area.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Package(India)/almora.jpg","desc":"Almora"}]
+
+}]
