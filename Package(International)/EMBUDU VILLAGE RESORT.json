@@ -1,0 +1,19 @@
+[{
+"id": 1,
+"name":"Embudu Village Resort",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"4 days 3 nights",
+"overview":{"Covered Places":"MALDIVES",
+"Day 1":"ARRIVAL AT MALDIVES: On arrival at the Maldives International airport you will be met by the resort's airport representative and will be transferred to Embudu Village Resort by a speedboat ( shared basis ) . Lunch at the resort . Afternoon free for relaxation . Dinner at the resort . Overnight stay at the resort .",
+"Day 2":"MALDIVES: After breakfast at the resort , relax and unwind at the resort or take an optional Island Hopping Tour ( at an extra cost ) or indulge yourself in the most popular Water Sports ( at an extra cost ) like Snorkelling , Windsurfing or a Catamaran sailing . Lunch at the resort . Dinner at the resort . Overnight stay at the resort .",
+"Day 3":"MALDIVES: After breakfast at the resort , day free to relax and explore the resort or experience one of the great Spa treatment ( at an extra cost ). Lunch at the resort . Dinner at the resort . Overnight stay at the resort ."},
+"sightseeing":{"desc":"The Maldives is a tropical nation in the Indian Ocean composed of 26 ring-shaped atolls, which are made up of more than 1,000 coral islands. It’s known for its beaches, blue lagoons and extensive reefs. The capital, Malé, has a busy fish market, restaurants and shops on the main road, Majeedhee Magu, and 17th-century Hukuru Miskiy (also known as Friday Mosque) made of carved white coral.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://raw.githubusercontent.com/Amrendra2017/myoho/main/Package(India)/almora.jpg","desc":"Embudu"}]
+
+}]
