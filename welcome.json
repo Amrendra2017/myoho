@@ -1,0 +1,22 @@
+[
+        {
+          "id": 995,
+          "url":"../../../assets/img/slides/1.jpg",
+          "text": "Weekend Gateways",
+          "showButton": true,
+          "buttonText": "Show Details",
+          "textSize": "20px",
+          "textLocation": "left",
+          "redirct": ""
+        },
+        {
+          "id": 925,
+          "url":"../../../assets/img/slides/2.jpg",
+          "text": "Find your special tour today with Myoho Holidays",
+          "showButton": false,
+          "buttonText": "Show Details",
+          "textSize": "16px",
+          "textLocation": "bottom",
+          "redirct": ""
+        }
+      ]
