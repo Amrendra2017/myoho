@@ -1,10 +1,20 @@
 [
         {
+          "id": 915,
+          "url":"../../../assets/img/slides/2.jpg",
+          "text": "Find your special tour today with Myoho Holidays",
+          "showButton": false,
+          "buttonText": "Show Details",
+          "textSize": "24px",
+          "textLocation": "bottom",
+          "redirct": ""
+        },
+        {
           "id": 995,
           "url":"../../../assets/img/slides/1.jpg",
           "text": "Weekend Gateways",
           "showButton": true,
-          "buttonText": "Show Details",
+          "buttonText": "See Package",
           "textSize": "20px",
           "textLocation": "left",
           "redirct": ""
@@ -12,9 +22,9 @@
         {
           "id": 925,
           "url":"../../../assets/img/slides/2.jpg",
-          "text": "Find your special tour today with Myoho Holidays",
-          "showButton": false,
-          "buttonText": "Show Details",
+          "text": "Deal under 4999",
+          "showButton": true,
+          "buttonText": "See Package",
           "textSize": "24px",
           "textLocation": "bottom",
           "redirct": ""
