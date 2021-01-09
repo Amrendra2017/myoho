@@ -1,0 +1,37 @@
+[{
+"id": 1,
+"name":"Weekend Package 1",
+"star":5,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"6 days 7 nights",
+"overview":{"Covered Places":"Munnar » Kumarakom » Kovalam",
+"Day 1":"COCHIN: Arrival at Cochin Airport/ Railway Station. Begin a drive to Athirapally vazhachal waterfalls. This scenic waterfalls is a must visit attraction for tourist looking for a peaceful retreat near the lapse of the nature.",
+"Day 2":"MUNNAR: Morning breakfast at the hotel, followed by a road trip to Munnar. On the way, visit Kodanad elephant care centre, Cheeyappara waterfalls, Valara waterfalls, Attukad waterfalls and spice plantations."},
+"sightseeing":{"desc":"Kerala is a beautiful state that conjures up the image of pristine green foliage, interlinked channels of canals, backwater and rivers, fishing boats returning at sunset, rich temples with its traditional practices and one of the most friendly, jovial and laid back people in India. These are just a few reasons which make the state a popular tourist destination of India and World. This socialist state is a successful model of socialism in India and its proper implementation sees the highest literacy rate in India.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://github.com/Amrendra2017/myoho/blob/main/Destination(India)/kerala-luxury.jpg?raw=true","desc":"Kerala Sea side"}]
+
+},
+{
+"id": 2,
+"name":"Weekend Packag 2",
+"star":4,
+"packageInclude":"All Drink Included,Insurance.Tour Guide,Lunch In Restaurant,All Ticket Museum",
+"tags":"Hotel,Food,Room Service, Commute, Internet",
+"timing":"6 days 7 nights",
+"overview":{"Covered Places":"Munnar » Kumarakom » Kovalam",
+"Day 1":"COCHIN TO MUNNAR: Meet and greet at the airport, followed by a journey to Munnar. Munnar is located at a distance of 150 Km from Cochin. Later check in to the hotel. Evening free for leisure activities. Overnight stay will be at the hotel.",
+"Day 2":"MUNNAR: The evergreen hill station of Munnar is blessed with nature's delight. Munnar is home to lakes, tea gardens and various other natural attractions for tourist. Local sightseeing in Munnar includes must visit destinations for the tourist. Your local attractions include a visit to: Mattupetty, Echo Point, Kundala, Rajamala (Eravikulam National Park), Attukad, waterfalls, Pothamedu View Point.",
+"Day 3":"KUMARAKOM: Early morning breakfast followed by a visit to Kumarakom. The Journey from Munnar to Kumarakom takes around 4 hours by car. Later check into the hotel. Overnight stay will at the hotel."},
+"sightseeing":{"desc":"Kerala is a beautiful state that conjures up the image of pristine green foliage, interlinked channels of canals, backwater and rivers, fishing boats returning at sunset, rich temples with its traditional practices and one of the most friendly, jovial and laid back people in India. These are just a few reasons which make the state a popular tourist destination of India and World. This socialist state is a successful model of socialism in India and its proper implementation sees the highest literacy rate in India.",
+               "list":[]},
+"accomodation":"On Request",
+"inclusion":{"inclusion":[], "exclusion":[]},
+"review":[{"title":"Superb","star":4, "name":"Ravi","time":"30 Jan 2020", "desc":"I am grateful to Myoho Holidays for planning a great holiday trip for my parents."}],
+"images": [{"url":"https://github.com/Amrendra2017/myoho/blob/main/Destination(India)/kerala-luxury.jpg?raw=true","desc":"Kerala Sea Side"}]
+
+}]
