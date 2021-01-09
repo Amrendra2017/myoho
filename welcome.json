@@ -1,4 +1,4 @@
-[
+o[
         {
           "id": 915,
           "url":"../../../assets/img/slides/2.jpg",
@@ -17,7 +17,8 @@
           "buttonText": "See Package",
           "textSize": "24px",
           "textLocation": "left",
-          "redirct": ""
+          "category": "Welcome",
+          "package":"Weekend Gateway"
         },
         {
           "id": 925,
@@ -26,7 +27,7 @@
           "showButton": true,
           "buttonText": "See Package",
           "textSize": "24px",
-          "textLocation": "bottom",
-          "redirct": ""
+          "category": "Welcome",
+          "package":"Deal Under 4999"
         }
       ]
