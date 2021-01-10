@@ -17,7 +17,7 @@
           "buttonText": "See Package",
           "textSize": "24px",
           "textLocation": "left",
-          "category": "Welcome",
+          "category": "Offers",
           "package":"Weekend Gateway"
         },
         {
@@ -27,7 +27,7 @@
           "showButton": true,
           "buttonText": "See Package",
           "textSize": "24px",
-          "category": "Welcome",
+          "category": "Offers",
           "package":"Deal Under 4999"
         }
       ]}
