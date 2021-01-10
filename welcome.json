@@ -1,4 +1,4 @@
-[
+{"offer":true, "data":[
         {
           "id": 915,
           "url":"../../../assets/img/slides/2.jpg",
@@ -30,4 +30,4 @@
           "category": "Welcome",
           "package":"Deal Under 4999"
         }
-      ]
+      ]}
